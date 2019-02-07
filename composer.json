@@ -56,7 +56,7 @@
     ],
     "description": "This is the definitive source of PEAR's core files.",
     "license": "BSD-2-Clause",
-    "name": "pear/pear",
+    "name": "pear-pear.php.net/pear",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=PEAR",
         "source": "https://github.com/pear/PEAR"
